@@ -1,6 +1,6 @@
-id=sqlite3-ndk
+id=sqlite3-nelshh
 name=SQLite3 for Android
 version=v3.29.0
-versionCode=1
+versionCode=3
 author=nelshh
 description=A statically built version of the latest stable sqlite3 binary for android (aarch64)
